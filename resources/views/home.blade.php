@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body>
-    <h1>Welcome to Code Clue</h1>
+    <h1>Welcome to Code Clue Community</h1>
 </body>
 </html>
